@@ -1,3 +1,10 @@
-"Волшебный шар"
-Программа приветствует пользователя и предлагает задать свой вопрос.
-После ввода вопроса пользователем отвечает на него.
+MAGIC BALL IN RUBY
+
+The program welcomes the user and offers to ask a question.
+The user enters a question.
+The program gives its answer.
+
+GAME
+
+To play, execute enter ruby magic_ball.rb from the command line.
+Good Luck!
