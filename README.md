@@ -6,6 +6,12 @@ The program gives its answer.
 
 **GAME**
 
-To play, execute enter ```ruby magic_ball.rb``` from the command line.
+To play, execute enter 
+
+```
+ruby magic_ball.rb
+``` 
+
+from the command line.
 
 Good Luck!
